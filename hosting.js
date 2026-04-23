@@ -57,17 +57,17 @@
 // console.log(b);//error is not diffined
 
 // var + var = ✅ allowed
-var a = 10
-var a = 20  // ok
+// var a = 10
+// var a = 20  // ok
 
-// let + let = ❌ error
-let b = 10
-let b = 20  // SyntaxError
+// // let + let = ❌ error
+// let b = 10
+// let b = 20  // SyntaxError
 
-// let + var = ❌ error
-let c = 10
-var c = 20  // SyntaxError
+// // let + var = ❌ error
+// let c = 10
+// var c = 20  // SyntaxError
 
-// var + let = ❌ error
-var d = 10
-let d = 20  // SyntaxError
+// // var + let = ❌ error
+// var d = 10
+// let d = 20  // SyntaxError
