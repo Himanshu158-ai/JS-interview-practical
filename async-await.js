@@ -60,3 +60,6 @@
 // ------------------------------------5 indexOf(item) = first time item konse index m mila tha
 
 const arr = [1,2,3,4,5,4,6,5];
+arr.forEach((val)=>{
+    console.log(val);
+})
